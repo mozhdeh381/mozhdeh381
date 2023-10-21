@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @mozhdeh381,l'm Inventor
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on 
+- 👋 Hi, I’m @mozhdeh381
 - 📫 How to reach me ...
 
 <!---
